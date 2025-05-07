@@ -4,7 +4,7 @@ const axios = require('axios');
 // AI API වින්‍යාසය
 const AI_APIS = {
   gpt: {
-    name: 'AI',
+    name: 'Ais',
     url: (query) => `https://lance-frank-asta.onrender.com/api/gpt?q=${encodeURIComponent(query)}`,
     responseField: 'message',
     react: '🤖',
@@ -16,7 +16,7 @@ const AI_APIS = {
     react: '🧠',
   },
   deepseek: {
-    name: 'DeepSeek AI',
+    name: 'DeepSeek Ai',
     url: (query) => `https://api.ryzendesu.vip/api/ai/deepseek?text=${encodeURIComponent(query)}`,
     responseField: 'answer',
     react: '🧠',
