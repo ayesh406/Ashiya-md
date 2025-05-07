@@ -4,7 +4,7 @@ const { fetchJson } = require('../lib/functions')
 const axios = require('axios')
 
 cmd({
-    pattern: "ais",
+    pattern: "aic",
     alias: ["ashiya2"], 
     react: "📑",
     desc: "ai chat with password check",
