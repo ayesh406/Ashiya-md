@@ -3,7 +3,7 @@ const axios = require('axios');
 
 cmd({
     pattern: "voice",
-    alias: ["vai", "voicex", "voiceai"],
+    alias: ["vai", "aiVoice", "voiceai"],
     desc: "Text to speech with different AI voices",
     category: "main",
     react: "🪃",
