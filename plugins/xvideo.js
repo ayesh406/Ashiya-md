@@ -9,7 +9,7 @@ const apilink = 'https://www.dark-yasiya-api.site/' // API LINK ( DO NOT CHANGE 
 
 cmd({
     pattern: "xv",
-    alias: ["xxx","sex"],
+    alias: ["xvdl","xvdown"],
     react: "🔞",
     desc: "Download xvideo.com porn video",
     category: "download",
@@ -29,13 +29,13 @@ const xv_info = await fetchJson(`${apilink}/download/xvideo?url=${xv_list.result
   // FIRST VIDEO
   
 const msg = `
-        🔞 *𝐀𝐒𝐇𝐈𝐘𝐀-𝐌𝐃 XVIDEO DOWNLOADER* 🔞
+        🔞 *𝐀𝐒𝐇𝐈𝐘𝐀_𝐌𝐃 XVIDEO DOWNLOADER* 🔞
     
 🥵 *Title* - ${xv_info.result.title}
 🥵 *Views* - ${xv_info.result.views}
 🥵 *Like* - ${xv_info.result.like}
 
-> 🄿🄾🅆🄴🅁🄳 🅱🆈 𝐀𝐒𝐇𝐈𝐘𝐀-𝐌𝐃 🥷`
+> 🄿🄾🅆🄴🅁🄳 🅱🆈 𝐀𝐒𝐇𝐈𝐘𝐀_𝐌𝐃 🥷🇱🇰`
 
 // Sending the image with caption
           const sentMsg = await conn.sendMessage(from, {
@@ -47,11 +47,11 @@ const msg = `
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-          newsletterName: '𝐀𝐒𝐇𝐈𝐘𝐀-𝐌𝐃',
+          newsletterName: '𝐀𝐒𝐇𝐈𝐘𝐀_𝐌𝐃',
           newsletterJid: "120363398661137791@newsletter",
           },
           externalAdReply: {
-              title: `𝐀𝐒𝐇𝐈𝐘𝐀-𝐌𝐃 Xvideo Downloader`,
+              title: `𝐀𝐒𝐇𝐈𝐘𝐀_𝐌𝐃 𝐗𝐯𝐢𝐝𝐞𝐨 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐫X 🥷💗`,
               body: `Can't Find The Information. You Can Try Another Way. Error Code 4043`,
               thumbnailUrl: xv_info.result.image,
               sourceUrl: ``,
