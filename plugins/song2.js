@@ -139,4 +139,4 @@ cmd({
         console.log(e);
         reply("❌ An error occurred while processing your request.");
     }
-}); ඔන්න තියනවා බලාගන්න
+});
