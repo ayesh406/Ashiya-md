@@ -37,7 +37,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *╰┈───────────╴╴╴•⟢*
 > *👾 : REPO*
 *╭┈───────────╴╴╴•⟢*
-*│*???????????????????*
+*│*https://github.com/AYESH_md/pky*
 *╰┈───────────╴╴╴•⟢*
 > *𝗣𝗼𝘄𝗲𝗿𝗱 𝗯𝘆 𝐀𝐘𝐄𝐒𝐇 🥷🇱🇰*
 
