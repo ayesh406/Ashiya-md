@@ -12,15 +12,15 @@ cmd({
         const channel = 'Ashiya-MD';
         const repolink = `⭕ *𝐀𝐒𝐇𝐈𝐘𝐀-𝐌𝐃 Github Repository*
 
-> ❓❓❓❓❌❓
+> 🥷🇱🇰
 
 ⭕ *𝐀𝐒𝐇𝐈𝐘𝐀-𝐌𝐃 DIPLOY HEROKU*
 
-> ❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓❓
+> 🇱🇰🥷
 
 ⭕ *𝐀𝐒𝐇𝐈𝐘𝐀-𝐌𝐃 WEB 📍*
 
-> ❓❓❓❓❓❓❓❓
+> 🥷🇱🇰
 
 ⭕ *WHATSAPP CHANNEL :*
 
@@ -33,13 +33,13 @@ cmd({
 `;
 
         return await conn.sendMessage(from, { 
-            image: { url: "https://files.catbox.moe/08x6zl.jpg" },
+            image: { url: "https://files.catbox.moe/x6lmqn.jpg" },
             caption: repolink,contextInfo: {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363398661137791@newsletter',
-                    newsletterName: '𝐀𝐒𝐇𝐈𝐘𝐀-𝐌𝐃',
+                    newsletterName: '𝐀𝐒𝐇𝐈𝐘𝐀-𝐌𝐃 🥷🇱🇰',
                     serverMessageId: -1
                 }
             }
