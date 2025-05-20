@@ -16,7 +16,7 @@ cmd({
 
 ⭕ *𝐀𝐒𝐇𝐈𝐘𝐀-𝐌𝐃 DIPLOY HEROKU*
 
-> 🇱🇰🥷
+> https://github.com/AYESH_Md/pky
 
 ⭕ *𝐀𝐒𝐇𝐈𝐘𝐀-𝐌𝐃 WEB 📍*
 
