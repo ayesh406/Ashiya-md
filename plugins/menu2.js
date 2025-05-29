@@ -21,7 +21,7 @@ cmd({
       'isForwarded': true,
       'forwardedNewsletterMessageInfo': {
         'newsletterJid': "120363398661137791@newsletter",
-        'newsletterName': config.OWNER_NAME,
+        'newsletterName': config.OWNER_𝐀𝐒𝐇𝐈𝐘𝐀_𝐌𝐃 🥷🇱🇰,
         'serverMessageId': 0x8f
       }
     };
